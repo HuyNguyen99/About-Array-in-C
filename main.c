@@ -22,6 +22,7 @@ void sapxepArray(int array[], int kichthuoc)
         {
             a++;
             i=0;
+            continue;
         }
         i++;
     }
